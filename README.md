@@ -41,8 +41,3 @@ Je transforme des données brutes et dispersées en systèmes fiables et exploit
 - **Migration MySQL → PostgreSQL** — Outil Python de migration automatisée, réduction de 80% du temps de migration manuelle
 
 *(tous les détails sur [mon portfolio](https://assanediakhoumpa.github.io))*
-
-
-### Stats GitHub
-
-![Assane's GitHub stats](https://github-readme-stats.vercel.app/api?username=AssaneDiakhoumpa&show_icons=true&theme=tokyonight&hide_border=true)
