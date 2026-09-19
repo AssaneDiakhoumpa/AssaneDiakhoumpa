@@ -7,7 +7,7 @@ Je transforme des données brutes et dispersées en systèmes fiables et exploit
 - En ce moment : Data Engineer en stage chez **Africa Global Logistique (AGL)**, et en Master 1 Statistique & Informatique Décisionnelle
 - J'approfondis : dbt, l'architecture de Data Warehouse, l'orchestration Airflow avancée
 - **Disponible en temps partiel, full remote**, pour des missions courtes ou du renfort ponctuel sur un projet data
-- Portfolio : [assanediakhoumpa.github.io](https://assanediakhoumpa.github.io)
+- Portfolio : [porte-folio-assane-diakhoumpa.vercel.app](https://porte-folio-assane-diakhoumpa.vercel.app/)
 - Me contacter : assanediakhoumpa4@gmail.com
 
 ### Stack
@@ -40,4 +40,4 @@ Je transforme des données brutes et dispersées en systèmes fiables et exploit
 - **Pipeline Dataflow** — Collecte et traitement de données météo, pipeline opérationnel traitant +10 000 enregistrements/jour
 - **Migration MySQL → PostgreSQL** — Outil Python de migration automatisée, réduction de 80% du temps de migration manuelle
 
-*(tous les détails sur [mon portfolio](https://assanediakhoumpa.github.io))*
+*(tous les détails sur [mon portfolio](https://porte-folio-assane-diakhoumpa.vercel.app/))
