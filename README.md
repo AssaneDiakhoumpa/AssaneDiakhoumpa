@@ -2,7 +2,7 @@
 
 **Data Engineer junior** spécialisé dans les pipelines ETL/ELT, l'automatisation et la modélisation de données également à l'aise en data analyses et modélisation prédictive.
 
-Je transforme des données brutes et dispersées en systèmes fiables et exploitables — de l'ingestion à la mise en production.
+Je transforme des données brutes et dispersées en systèmes fiables et exploitables de l'ingestion à la mise en production.
 
 - En ce moment : Data Engineer en stage chez **Africa Global Logistique (AGL)**, et en Master 1 Statistique & Informatique Décisionnelle
 - J'approfondis : dbt, l'architecture de Data Warehouse, l'orchestration Airflow avancée
@@ -36,8 +36,8 @@ Je transforme des données brutes et dispersées en systèmes fiables et exploit
 
 ### Projets phares
 
-- **Assistant Voyageur Intelligent** — Plateforme data end-to-end : pipeline ELT, data warehouse en étoile, prédiction de retards de vol (XGBoost, 98% de précision), chatbot RAG
-- **Pipeline Dataflow** — Collecte et traitement de données météo, pipeline opérationnel traitant +10 000 enregistrements/jour
-- **Migration MySQL → PostgreSQL** — Outil Python de migration automatisée, réduction de 80% du temps de migration manuelle
+- **Assistant Voyageur Intelligent** Plateforme data end-to-end : pipeline ELT, data warehouse en étoile, prédiction de retards de vol (XGBoost, 98% de précision), chatbot RAG
+- **Pipeline Dataflow** Collecte et traitement de données météo, pipeline opérationnel traitant +10 000 enregistrements/jour
+- **Migration MySQL → PostgreSQL** Outil Python de migration automatisée, réduction de 80% du temps de migration manuelle
 
 *(tous les détails sur [mon portfolio](https://porte-folio-assane-diakhoumpa.vercel.app/))
